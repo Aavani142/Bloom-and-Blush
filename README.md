@@ -1,4 +1,6 @@
-# Bloom and Blsh Landing Page
+# Bloom and Blush Landing Page
+
+--Beginner's League--
 
 This project is a landing page for **Bloom and Blsh**, a modern beauty brand, created using **Canva** — a no-code design tool.
 
